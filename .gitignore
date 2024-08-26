@@ -1,6 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
-
+**/.infracostgi/*
 # .tfstate files
 *.tfstate
 *.tfstate.*
